@@ -1,5 +1,9 @@
 {
   "router": "10.0.0.1",
   "pc": "10.0.0.100",
-  "nas": "10.0.0.10"
+  "nas": "10.0.0.10",
+  "switch": "10.0.0.2",
+  "access_point": "10.0.0.3",
+  "serwer_monitorujacy": "10.0.0.200",
+  "serwer_automatyzacji": "10.0.0.220"
 }
