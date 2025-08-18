@@ -1,0 +1,140 @@
+[
+  {
+    "id": "01",
+    "name": "Komputer",
+    "type": "pc",
+    "role": "główny komputer",
+    "mother_board": "Asus ROG STRIX B650E-F GAMING WIFI",
+    "cpu": "Ryzen 7 7700",
+    "drive": [
+      {
+        "type": "NVMe M.2 SSD",
+        "size": "2TB",
+        "function": "OS / dane"
+      }
+    ],
+    "ram": [
+      {
+        "type": "DDR5",
+        "size": "32GB"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "name": "NAS",
+    "type": "pc",
+    "role": "NAS / serwer multimediów",
+    "mother_board": "własnościowa",
+    "cpu": "Intel Celeron G540",
+    "drive": [
+      {
+        "type": "mSATA SSD",
+        "size": "64GB",
+        "function": "OS"
+      },
+      {
+        "type": "HDD",
+        "size": "1TB",
+        "function": "Data"
+      },
+      {
+        "type": "HDD",
+        "size": "500GB",
+        "function": "Data"
+      }
+    ],
+    "ram": [
+      {
+        "type": "DDR3",
+        "size": "4GB"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "name": "server_monitorujący",
+    "type": "laptop",
+    "role": "monitoring sieci",
+    "mother_board": "Acer HMA51_HR",
+    "cpu": "Pentium B960",
+    "drive": [
+      {
+        "type": "HDD",
+        "size": "320GB",
+        "function": "OS / dane"
+      }
+    ],
+    "ram": [
+      {
+        "type": "DDR3",
+        "size": "3GB"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "name": "server_automatyzacji",
+    "type": "laptop",
+    "role": "automatyzacja",
+    "mother_board": "Asus X541NA",
+    "cpu": "Celeron N3350",
+    "drive": [
+      {
+        "type": "HDD",
+        "size": "500GB",
+        "function": "OS / dane"
+      }
+    ],
+    "ram": [
+      {
+        "type": "DDR3",
+        "size": "4GB"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "name": "Router",
+    "type": "network_device",
+    "role": "router / firewall",
+    "model": "Mikrotik RB750GR3",
+    "mother_board": "Nie dotyczy",
+    "cpu": "Nie dotyczy",
+    "drive": [],
+    "ram": []
+  },
+  {
+    "id": "06",
+    "name": "Switch",
+    "type": "network_device",
+    "role": "switch",
+    "model": "TP-Link TL-SG108PE",
+    "mother_board": "Nie dotyczy",
+    "cpu": "Nie dotyczy",
+    "drive": [],
+    "ram": []
+  },
+  {
+    "id": "07",
+    "name": "Access Point",
+    "type": "network_device",
+    "role": "access point",
+    "model": "TP-Link TL-WA1201",
+    "mother_board": "Nie dotyczy",
+    "cpu": "Nie dotyczy",
+    "drive": [],
+    "ram": []
+  },
+  {
+    "id": "08",
+    "name": "Konwerter",
+    "type": "network_device",
+    "role": "konwerter światłowodowy",
+    "model": "Halny HL 1GE",
+    "mother_board": "Nie dotyczy",
+    "cpu": "Nie dotyczy",
+    "drive": [],
+    "ram": []
+  }
+]
