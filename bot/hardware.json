@@ -24,7 +24,7 @@
     "id": "02",
     "name": "NAS",
     "type": "pc",
-    "role": "NAS / serwer multimediów",
+    "role": "serwer plików / serwer multimediów",
     "mother_board": "własnościowa",
     "cpu": "Intel Celeron G540",
     "drive": [
